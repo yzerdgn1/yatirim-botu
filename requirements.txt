@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]==21.6
+yfinance==0.2.48
+pandas==2.2.3
+pandas-ta==0.3.14b0
+tefas-crawler==0.4.2
+pytz==2024.2
